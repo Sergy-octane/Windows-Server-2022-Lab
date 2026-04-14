@@ -24,6 +24,7 @@ This project documents the end-to-end implementation of a virtualized enterprise
 
 5. **SysAdmin Tasks:** Performed user password resets and account unlocking from the AD console.
 
+<img width="500" height="523" alt="Captura de pantalla 2026-04-12 170239" src="https://github.com/user-attachments/assets/26366c9c-2bc6-4730-8377-cdf952894269" />
 
 ## 📸 Screenshots
 All evidence of the configuration process can be found in the `/windows-server` directory.
