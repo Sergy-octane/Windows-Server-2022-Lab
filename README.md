@@ -22,6 +22,7 @@ This project documents the end-to-end implementation of a virtualized enterprise
  <img width="500![Uploading Captura de pantalla 2026-04-12 164902.png…]()
 " height="469" alt="Captura de pantalla 2026-04-12 163540" src="https://github.com/user-attachments/assets/ebfa9d53-870a-4585-8490-b2e5fa047ca3" />
 <img width="500" height="671" alt="Captura de pantalla 2026-04-12 163348" src="https://github.com/user-attachments/assets/77190250-0f9b-4e5c-8c65-ad09159eda3f" />
+
 9. **SysAdmin Tasks:** Performed user password resets and account unlocking from the AD console.
 
 
