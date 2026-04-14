@@ -11,6 +11,7 @@ This project documents the end-to-end implementation of a virtualized enterprise
 ## 📋 Key Milestones
 1. **Domain Promotion:** Successfully promoted the server to a Domain Controller for `sergy.local`.
 <img width="500" height="574" alt="img_1 png" src="https://github.com/user-attachments/assets/eaa9c1a4-d5dd-4c73-b114-be2ff0bf4129" />
+<img width="500" height="558" alt="Captura de pantalla 2026-04-12 135221" src="https://github.com/user-attachments/assets/91b66577-d742-4c62-840a-7c65de9ba5e5" />
 
 3. **Identity Management:** Established Organizational Units (OUs), Security Groups, and User Accounts.
 4. **Network Troubleshooting:** Resolved complex DNS and Firewall connectivity issues between VMs.
