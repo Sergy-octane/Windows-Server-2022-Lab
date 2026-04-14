@@ -10,7 +10,7 @@ This project documents the end-to-end implementation of a virtualized enterprise
 
 ## 📋 Key Milestones
 1. **Domain Promotion:** Successfully promoted the server to a Domain Controller for `sergy.local`.
-   ![Domain Joined](Windows-server/img_1.png)
+   ![Domain Joined](L1/Windows-server/img_1.png)
 3. **Identity Management:** Established Organizational Units (OUs), Security Groups, and User Accounts.
 4. **Network Troubleshooting:** Resolved complex DNS and Firewall connectivity issues between VMs.
 5. **Client Integration:** Joined a Windows 10 workstation to the domain with centralized authentication.
