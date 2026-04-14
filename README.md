@@ -13,8 +13,10 @@ This project documents the end-to-end implementation of a virtualized enterprise
 <img width="500" height="558" alt="Captura de pantalla 2026-04-12 135221" src="https://github.com/user-attachments/assets/91b66577-d742-4c62-840a-7c65de9ba5e5" />
 <img width="500" height="574" alt="img_1 png" src="https://github.com/user-attachments/assets/eaa9c1a4-d5dd-4c73-b114-be2ff0bf4129" />
 <img width="500" height="419" alt="Captura de pantalla 2026-04-12 151049" src="https://github.com/user-attachments/assets/f79581e8-488a-4653-9618-803ef1ec07e6" />
+
 3. **Identity Management:** Established Organizational Units (OUs), Security Groups, and User Accounts.
-   <img width="500" height="523" alt="Captura de pantalla 2026-04-12 152419" src="https://github.com/user-attachments/assets/cacf526e-4775-4704-b46c-8e353c706b85" />
+<img width="500" height="523" alt="Captura de pantalla 2026-04-12 152419" src="https://github.com/user-attachments/assets/cacf526e-4775-4704-b46c-8e353c706b85" />
+
 5. **Network Troubleshooting:** Resolved complex DNS and Firewall connectivity issues between VMs.
 7. **Client Integration:** Joined a Windows 10 workstation to the domain with centralized authentication.
  <img width="500![Uploading Captura de pantalla 2026-04-12 164902.png…]()
