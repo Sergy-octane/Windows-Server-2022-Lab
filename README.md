@@ -14,16 +14,15 @@ This project documents the end-to-end implementation of a virtualized enterprise
 <img width="500" height="574" alt="img_1 png" src="https://github.com/user-attachments/assets/eaa9c1a4-d5dd-4c73-b114-be2ff0bf4129" />
 <img width="500" height="419" alt="Captura de pantalla 2026-04-12 151049" src="https://github.com/user-attachments/assets/f79581e8-488a-4653-9618-803ef1ec07e6" />
 
-3. **Identity Management:** Established Organizational Units (OUs), Security Groups, and User Accounts.
+2. **Identity Management:** Established Organizational Units (OUs), Security Groups, and User Accounts.
 <img width="500" height="523" alt="Captura de pantalla 2026-04-12 152419" src="https://github.com/user-attachments/assets/cacf526e-4775-4704-b46c-8e353c706b85" />
 
-5. **Network Troubleshooting:** Resolved complex DNS and Firewall connectivity issues between VMs.
-7. **Client Integration:** Joined a Windows 10 workstation to the domain with centralized authentication.
- <img width="500![Uploading Captura de pantalla 2026-04-12 164902.png…]()
-" height="469" alt="Captura de pantalla 2026-04-12 163540" src="https://github.com/user-attachments/assets/ebfa9d53-870a-4585-8490-b2e5fa047ca3" />
+3. **Network Troubleshooting:** Resolved complex DNS and Firewall connectivity issues between VMs.
+4. **Client Integration:** Joined a Windows 10 workstation to the domain with centralized authentication.
+<img width="500![Uploading Captura de pantalla 2026-04-12 164902.png…]()" height="469" alt="Captura de pantalla 2026-04-12 163540" src="https://github.com/user-attachments/assets/ebfa9d53-870a-4585-8490-b2e5fa047ca3" />
 <img width="500" height="671" alt="Captura de pantalla 2026-04-12 163348" src="https://github.com/user-attachments/assets/77190250-0f9b-4e5c-8c65-ad09159eda3f" />
 
-9. **SysAdmin Tasks:** Performed user password resets and account unlocking from the AD console.
+5. **SysAdmin Tasks:** Performed user password resets and account unlocking from the AD console.
 
 
 ## 📸 Screenshots
